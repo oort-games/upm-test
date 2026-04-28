@@ -1,0 +1,10 @@
+{
+    "name": "Oortgamestudio.Upmtest.Editor",
+    "references": [
+      "Oortgamestudio.Upmtest"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

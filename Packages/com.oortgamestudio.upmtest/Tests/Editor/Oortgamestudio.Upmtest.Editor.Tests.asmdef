@@ -1,0 +1,14 @@
+{
+    "name": "Oortgamestudio.Upmtest.Editor.Tests",
+    "references": [
+        "Oortgamestudio.Upmtest.Editor",
+        "Oortgamestudio.Upmtest"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

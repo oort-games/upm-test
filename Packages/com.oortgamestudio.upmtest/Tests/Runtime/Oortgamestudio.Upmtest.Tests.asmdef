@@ -1,0 +1,11 @@
+{
+    "name": "Oortgamestudio.Upmtest.Tests",
+    "references": [
+        "Oortgamestudio.Upmtest"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
